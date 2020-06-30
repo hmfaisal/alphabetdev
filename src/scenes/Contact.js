@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Container, Row, Col } from "react-grid-system";
-import { FaTwitter, FaGithub, FaVimeo } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 // Components
 import Icon from "../components/common/Icon";
@@ -55,18 +55,18 @@ function Contact() {
                 <div className="social-links">
                     <ul>
                         <li>
-                            <a href="/#">
-                                <FaTwitter />
+                            <a href="https://www.facebook.com/Alphabetdev-113654283734802">
+                                <FaFacebook />
                             </a>
                         </li>
                         <li>
-                            <a href="/#">
-                                <FaGithub />
+                            <a href="https://www.linkedin.com/company/alphabetdev">
+                                <FaLinkedin />
                             </a>
                         </li>
                         <li>
-                            <a href="/#">
-                                <FaVimeo />
+                            <a href="https://www.instagram.com/alphabet.dev/">
+                                <FaInstagram />
                             </a>
                         </li>
                     </ul>

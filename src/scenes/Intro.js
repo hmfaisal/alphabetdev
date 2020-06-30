@@ -79,17 +79,17 @@ function Intro() {
                 <div className="hero-sidebar-links">
                     <ul>
                         <li>
-                            <a href="/">
+                            <a href="https://www.facebook.com/Alphabetdev-113654283734802">
                                 <FaFacebook />
                             </a>
                         </li>
                         <li>
-                            <a href="/">
+                            <a href="https://www.linkedin.com/company/alphabetdev">
                                 <FaLinkedin />
                             </a>
                         </li>
                         <li>
-                            <a href="/">
+                            <a href="https://www.instagram.com/alphabet.dev/">
                                 <FaInstagram />
                             </a>
                         </li>
